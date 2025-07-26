@@ -1,4 +1,4 @@
-# bank-churn-prediction
+
 # Customer Churn Prediction with Machine Learning
 
 This project focuses on predicting customer churn using machine learning models such as **Random Forest** and **Logistic Regression**. The dataset used is a bank customer dataset that includes demographic, account, and behavioral features.
@@ -57,7 +57,7 @@ Target Variable:
 
 The ROC curve shows that **Random Forest** outperforms **Logistic Regression**, especially in identifying churned customers. The curve is closer to the top-left corner, indicating better true positive and lower false positive rates.
 
-![ROC Curve](roc_curve.png) *(Add your ROC image if exported)*
+![ROC Curve](roc_curve.png)
 
 ---
 
